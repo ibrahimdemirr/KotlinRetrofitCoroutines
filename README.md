@@ -6,6 +6,7 @@ I used the https://yts.am/api API to shoot the latest movies in the form of JSON
 >* Kotlin
 >* Retrofit 2
 >* Coroutines
+>* Picasso
 
 ## **Screenshots**
 <p align="center">
