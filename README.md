@@ -10,6 +10,6 @@ I used the https://yts.am/api API to shoot the latest movies in the form of JSON
 
 ## **Screenshots**
 <p align="center">
-  <img src="https://github.com/ibrahimdemirr/KotlinRetrofitCoroutines/blob/master/art/Screenshot_20201228-174750.png" width="400" align="left">
-  <img src="https://github.com/ibrahimdemirr/KotlinRetrofitCoroutines/blob/master/art/Screenshot_20201228-174801.png" width="400" align="left">
+<img src="https://github.com/ibrahimdemirr/KotlinRetrofitCoroutines/blob/master/art/Screenshot_20201228-174750.png" width="300">
+<img src="https://github.com/ibrahimdemirr/KotlinRetrofitCoroutines/blob/master/art/Screenshot_20201228-174801.png" width="300">
 </p>
